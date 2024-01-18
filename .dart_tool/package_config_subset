@@ -1,7 +1,7 @@
 charts_common
 2.12
-file:///Users/96084/.pub-cache/git/charts_common-1f97c528a62609da29aff33d175532bd5f40d66a/
-file:///Users/96084/.pub-cache/git/charts_common-1f97c528a62609da29aff33d175532bd5f40d66a/lib/
+file:///Users/96084/.pub-cache/git/charts_common-f02eb97af38849fcd3cda11190ae620e0b351abb/
+file:///Users/96084/.pub-cache/git/charts_common-f02eb97af38849fcd3cda11190ae620e0b351abb/lib/
 _fe_analyzer_shared
 3.0
 file:///Users/96084/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-64.0.0/
@@ -123,9 +123,9 @@ http_parser
 file:///Users/96084/.pub-cache/hosted/pub.dev/http_parser-4.0.2/
 file:///Users/96084/.pub-cache/hosted/pub.dev/http_parser-4.0.2/lib/
 intl
-3.0
-file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.19.0/
-file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.19.0/lib/
+2.12
+file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.18.1/
+file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.18.1/lib/
 io
 2.12
 file:///Users/96084/.pub-cache/hosted/pub.dev/io-1.0.4/

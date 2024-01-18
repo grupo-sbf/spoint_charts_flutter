@@ -118,7 +118,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1f97c528a62609da29aff33d175532bd5f40d66a"
+      resolved-ref: f02eb97af38849fcd3cda11190ae620e0b351abb
       url: "https://github.com/jjullimayanne/charts_common"
     source: git
     version: "0.12.0"
@@ -264,10 +264,10 @@ packages:
     dependency: "direct main"
     description:
       name: intl
-      sha256: d6f56758b7d3014a48af9701c085700aac781a92a87a62b1333b46d8879661cf
+      sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
       url: "https://pub.dev"
     source: hosted
-    version: "0.19.0"
+    version: "0.18.1"
   io:
     dependency: transitive
     description:
