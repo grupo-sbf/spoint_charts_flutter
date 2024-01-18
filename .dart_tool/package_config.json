@@ -87,7 +87,7 @@
     },
     {
       "name": "charts_common",
-      "rootUri": "file:///Users/96084/.pub-cache/hosted/pub.dev/charts_common-0.12.0",
+      "rootUri": "file:///Users/96084/.pub-cache/git/charts_common-1f97c528a62609da29aff33d175532bd5f40d66a/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -201,9 +201,9 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "rootUri": "file:///Users/96084/.pub-cache/hosted/pub.dev/intl-0.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "io",
@@ -458,7 +458,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-01-18T13:09:32.808470Z",
+  "generated": "2024-01-18T13:32:55.355897Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
